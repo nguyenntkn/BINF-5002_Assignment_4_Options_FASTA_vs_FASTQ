@@ -1,0 +1,1 @@
+# BINF-5002_Assignment_4_Options_FASTA_vs_FASTQ
